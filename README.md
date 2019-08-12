@@ -2,6 +2,4 @@
 
 A freaking Awesome WebSite!!!
 
-Now updating on the update readme branch
-
-Updated locally
+Updating on master before rebase on github
